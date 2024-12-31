@@ -1,4 +1,4 @@
-import Button from "./Button/Button";
+import Button from "./Button/Button"
 import './Buttons.css'
 
 export default function Buttons({

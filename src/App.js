@@ -1,7 +1,7 @@
-import Display from "./components/Display/Display";
+import Display from "./components/Display/Display"
 import './App.css'
-import { useState } from "react";
-import ButtonsContainer from "./components/Buttons/ButtonsContainer";
+import { useState } from "react"
+import ButtonsContainer from "./components/Buttons/ButtonsContainer"
 
 export default function App() {
   const [input, setInput] = useState("0");
